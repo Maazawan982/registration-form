@@ -1,0 +1,7 @@
+{
+  "name": "Aura Cloud Platform & Authentication Suite",
+  "description": "High-performance cloud workspace landing page with complete interactive Login, Sign Up, and Password Recovery authentication flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
